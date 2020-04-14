@@ -23,4 +23,4 @@ t.prefs_.set('color-palette-overrides',
 
 t.prefs_.set('cursor-color', 'rgba(208, 208, 208, 0.5)');
 t.prefs_.set('foreground-color', lightWhite);
-t.prefs_.set('backgroud-color', black);
+t.prefs_.set('background-color', black);
